@@ -2,6 +2,7 @@
 ### こんにちは！👋
 
 私は **ime** です **(Helloworld)**
+
 ソフトウェア開発に興味があり、以下のプログラミング言語を学びました：
 
 - 🌟 / C / C++ / Java / JavaScript / HTML / CSS
